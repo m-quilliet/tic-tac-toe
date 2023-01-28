@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/m-quilliet/tic-tac-toe.git/static/css/main.1d8c6e3f.css",
-    "main.js": "/m-quilliet/tic-tac-toe.git/static/js/main.45e7e3cd.js",
-    "static/js/787.393238a3.chunk.js": "/m-quilliet/tic-tac-toe.git/static/js/787.393238a3.chunk.js",
-    "index.html": "/m-quilliet/tic-tac-toe.git/index.html",
-    "main.1d8c6e3f.css.map": "/m-quilliet/tic-tac-toe.git/static/css/main.1d8c6e3f.css.map",
-    "main.45e7e3cd.js.map": "/m-quilliet/tic-tac-toe.git/static/js/main.45e7e3cd.js.map",
-    "787.393238a3.chunk.js.map": "/m-quilliet/tic-tac-toe.git/static/js/787.393238a3.chunk.js.map"
+    "main.css": "/m-quilliet/tic-tac-toe/static/css/main.1d8c6e3f.css",
+    "main.js": "/m-quilliet/tic-tac-toe/static/js/main.63f20375.js",
+    "static/js/787.393238a3.chunk.js": "/m-quilliet/tic-tac-toe/static/js/787.393238a3.chunk.js",
+    "index.html": "/m-quilliet/tic-tac-toe/index.html",
+    "main.1d8c6e3f.css.map": "/m-quilliet/tic-tac-toe/static/css/main.1d8c6e3f.css.map",
+    "main.63f20375.js.map": "/m-quilliet/tic-tac-toe/static/js/main.63f20375.js.map",
+    "787.393238a3.chunk.js.map": "/m-quilliet/tic-tac-toe/static/js/787.393238a3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1d8c6e3f.css",
-    "static/js/main.45e7e3cd.js"
+    "static/js/main.63f20375.js"
   ]
 }
