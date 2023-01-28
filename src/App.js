@@ -1,10 +1,14 @@
 import './App.css';
+import Game from './components/Game';
+
+
+
 
 function App() {
   return (
     <div className="App">
-      <h1>Tic Tac Toe</h1>
-      <h2>dggc</h2>
+      <h1 className="morpion">Morpion</h1>
+        <Game/>
     </div>
   );
 }
